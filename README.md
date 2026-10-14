@@ -14,9 +14,9 @@
 ### Opção 1: Via Terminal do Antigravity (`npx skills add`)
 Instale direto sem precisar baixar nada manualmente:
 ```bash
-npx skills add security-guardian-kit
+npx skills add marcospaulos23/security-guardian-kit
 ```
-*(Para instalar globalmente em todos os projetos da sua máquina: `npx skills add security-guardian-kit -g`)*
+*(Para instalar globalmente em todos os projetos da sua máquina: `npx skills add marcospaulos23/security-guardian-kit -g`)*
 
 ### Opção 2: Via PowerShell One-Liner (Nuvem / GitHub)
 ```powershell
