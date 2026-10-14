@@ -20,13 +20,13 @@ npx skills add security-guardian-kit
 
 ### Opção 2: Via PowerShell One-Liner (Nuvem / GitHub)
 ```powershell
-irm https://raw.githubusercontent.com/security-guardian-kit/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/marcospaulos23/security-guardian-kit/main/install.ps1 | iex
 ```
 
 ### Opção 3: No Computador Local
 Se você já clonou este repositório:
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\install-security-kit.ps1
+powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 *(Ou passe `-Global` para instalar globalmente).*
 
